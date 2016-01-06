@@ -59,7 +59,7 @@
 <br/><br/>
 ####5. 清空密码
 
-    [pv clearPassword]
+    [pv clearPassword];
 
 
 <br/><br/>
