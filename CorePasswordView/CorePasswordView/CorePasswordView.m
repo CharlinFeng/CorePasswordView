@@ -279,7 +279,6 @@
 }
 
 
-
 -(void)textDidChange{
 
     NSString *str = self.tf.text;

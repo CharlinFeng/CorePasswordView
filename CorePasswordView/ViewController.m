@@ -30,7 +30,6 @@
     };
     
     [self.view addSubview:self.pv];
-
 }
 
 

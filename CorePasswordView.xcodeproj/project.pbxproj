@@ -62,7 +62,6 @@
 			isa = PBXGroup;
 			children = (
 				89DB0D5D1C3D040500CCC5FB /* CorePasswordView */,
-				89DB0D5E1C3D041800CCC5FB /* FrameWorks */,
 				89DB0D491C3D03E600CCC5FB /* AppDelegate.h */,
 				89DB0D4A1C3D03E600CCC5FB /* AppDelegate.m */,
 				89DB0D4C1C3D03E600CCC5FB /* ViewController.h */,
@@ -91,13 +90,6 @@
 				89DB0D601C3D042E00CCC5FB /* CorePasswordView.m */,
 			);
 			path = CorePasswordView;
-			sourceTree = "<group>";
-		};
-		89DB0D5E1C3D041800CCC5FB /* FrameWorks */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = FrameWorks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
