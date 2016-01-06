@@ -24,5 +24,8 @@
 /** 结束输入 */
 -(void)endInput;
 
+/** 清空密码 */
+-(void)clearPassword;
+
 
 @end

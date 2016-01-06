@@ -309,4 +309,11 @@
     return self.tf.text;
 }
 
+/** 清空密码 */
+-(void)clearPassword{
+
+    self.tf.text = @"";
+    [self textDidChange];
+}
+
 @end

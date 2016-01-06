@@ -23,6 +23,8 @@
     
      self.pv = [[CorePasswordView alloc] initWithFrame:CGRectMake(0, 40, 320, 50)];
     
+    [self.pv endInput];
+    
     self.pv.PasswordCompeleteBlock = ^(NSString *password){
     
         NSLog(@"%@", password);
@@ -30,6 +32,7 @@
     };
     
     [self.view addSubview:self.pv];
+
 }
 
 
