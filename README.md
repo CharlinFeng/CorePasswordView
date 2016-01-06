@@ -45,16 +45,10 @@
 ####3. 主动隐藏键盘
 
     [pv endInput];
-    
+
 
 <br/><br/>
-####4. 主动隐藏键盘
-
-    [pv endInput];
-    
-
-<br/><br/>
-####5. 输满密码回调
+####4. 输满密码回调
 
     pv.PasswordCompeleteBlock = ^(NSString *password){
     
