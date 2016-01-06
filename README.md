@@ -55,3 +55,9 @@
         NSLog(@"%@", password);
         
     };
+
+
+<br/><br/>
+####5. 支持更改密码位数
+
+    pv.passwordLength = 4;
